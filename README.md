@@ -12,7 +12,10 @@
 </details>
 
 ## Introduccion 
-Welcome
+
+C# es el lenguaje base de la plataforma .NET donde se crean aplicaciones de escritorio, web, móviles que se ejecutan en diferentes sistemas operativos.
+Por ello, es importante contar con programadores que comprendan los fundamentos de este lenguaje para garantizar el desarrollo de software multiplataforma.
+<b>Duración: 111 h</b>
 
 ## Temario
 Estos fueron los temas tratados en el Curso
@@ -28,3 +31,6 @@ Estos fueron los temas tratados en el Curso
 </ul>
 
 ## Donde seguir el curso
+El curso lo pueden seguir en la página de capacitaciones de la Fundación Carlos Slim. 
+<a href="https://capacitateparaelempleo.org/cursos/view/277">Haz clic aquí para ir al Curso 📍</a>
+<b>Duración del curso: </b> 111 horas.
