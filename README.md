@@ -7,7 +7,7 @@
   <ol>
       <li><a href="#introduccion">Introducción del Curso </a></li>
       <li><a href="#temario">Temario</a></li>
-      <li><a href="#¿donde-seguir-el-curso?">¿Donde seguí el curso? </a></li>
+      <li><a href="#donde-seguir-el-curso">¿Donde seguí el curso? </a></li>
   </ol>
 </details>
 
@@ -27,4 +27,4 @@ Estos fueron los temas tratados en el Curso
     <li>Depuración de código desde el entorno de desarrollo</li>
 </ul>
 
-## ¿Donde seguir el curso?
+## Donde seguir el curso
