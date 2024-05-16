@@ -27,4 +27,4 @@ Estos fueron los temas tratados en el Curso
     <li>Depuración de código desde el entorno de desarrollo</li>
 </ul>
 
-## Donde seguir el curso
+## ¿Donde seguir el curso?
