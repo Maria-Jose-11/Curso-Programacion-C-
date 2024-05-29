@@ -13,6 +13,5 @@ Temario de Contenidos para el Nivel 1:
     <li>Conversión implícita y explícita</li>
     <li>Comentarios</li>
     <li>Medidas de seguridad y salud laboral</li>
-    <li>Examen</li>
 </ul>
 
