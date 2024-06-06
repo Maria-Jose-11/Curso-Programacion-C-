@@ -25,6 +25,7 @@
     <li>Medidas de seguridad y salud laboral</li>
 </ul>
 <br>
+
 ### Lección 2
 <ul>
     <li>Operadores de asignación y aritméticos</li>
@@ -38,6 +39,7 @@
     <li>Programación estructurada en C#</li>
 </ul>
 <br>
+
 ### Lección 3
 <ul>
     <li>Programación Orientada a Objetos (POO)</li>
@@ -51,6 +53,7 @@
     <li>Bases de la POO</li>
 </ul>
 <br>
+
 ### Lección 4
 <ul>
     <li>Interaces</li>
