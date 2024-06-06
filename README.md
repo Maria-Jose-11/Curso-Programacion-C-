@@ -56,7 +56,7 @@
 
 ### Lección 4
 <ul>
-    <li>Interaces</li>
+    <li>Interfaces</li>
     <li>Implementación explícita de interfaces</li>
     <li>Colecciones</li>
     <li>Encapsulamiento de métodos con delegar</li>
