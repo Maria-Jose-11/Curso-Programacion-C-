@@ -18,7 +18,7 @@ Por ello, es importante contar con programadores que comprendan los fundamentos 
 
 
 ## Temario
-Estos fueron los temas tratados en el Curso
+Estos son los temas a tratar en el curso
 <br>
 <ul>
     <li>Sintaxis del lenguaje de programación C#</li>
