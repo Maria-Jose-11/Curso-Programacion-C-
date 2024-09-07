@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria Jose\\Documents\\MJC\\Cursos\\C#\\Nivel 1\\VariablesConstantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7C1001-AB55-4133-84C9-A53B1FB965E6}|VariablesConstantes\\VariablesConstantes.csproj|c:\\users\\maria jose\\documents\\mjc\\cursos\\c#\\nivel 1\\variablesconstantes\\variablesconstantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7C1001-AB55-4133-84C9-A53B1FB965E6}|VariablesConstantes\\VariablesConstantes.csproj|solutionrelative:variablesconstantes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maria Jose\\Documents\\MJC\\Cursos\\C#\\Nivel 1\\VariablesConstantes\\VariablesConstantes\\Program.cs",
+              "RelativeDocumentMoniker": "VariablesConstantes\\Program.cs",
+              "ToolTip": "C:\\Users\\Maria Jose\\Documents\\MJC\\Cursos\\C#\\Nivel 1\\VariablesConstantes\\VariablesConstantes\\Program.cs",
+              "RelativeToolTip": "VariablesConstantes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T18:56:46.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

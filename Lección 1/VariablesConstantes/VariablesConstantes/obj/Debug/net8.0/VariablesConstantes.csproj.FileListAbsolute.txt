@@ -1,0 +1,14 @@
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\bin\Debug\net8.0\VariablesConstantes.exe
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\bin\Debug\net8.0\VariablesConstantes.deps.json
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\bin\Debug\net8.0\VariablesConstantes.runtimeconfig.json
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\bin\Debug\net8.0\VariablesConstantes.dll
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\bin\Debug\net8.0\VariablesConstantes.pdb
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\obj\Debug\net8.0\VariablesConstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\obj\Debug\net8.0\VariablesConstantes.AssemblyInfoInputs.cache
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\obj\Debug\net8.0\VariablesConstantes.AssemblyInfo.cs
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\obj\Debug\net8.0\VariablesConstantes.csproj.CoreCompileInputs.cache
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\obj\Debug\net8.0\VariablesConstantes.dll
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\obj\Debug\net8.0\refint\VariablesConstantes.dll
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\obj\Debug\net8.0\VariablesConstantes.pdb
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\obj\Debug\net8.0\VariablesConstantes.genruntimeconfig.cache
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\VariablesConstantes\VariablesConstantes\obj\Debug\net8.0\ref\VariablesConstantes.dll

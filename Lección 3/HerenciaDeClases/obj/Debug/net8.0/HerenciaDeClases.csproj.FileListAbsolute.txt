@@ -1,0 +1,14 @@
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\bin\Debug\net8.0\HerenciaDeClases.exe
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\bin\Debug\net8.0\HerenciaDeClases.deps.json
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\bin\Debug\net8.0\HerenciaDeClases.runtimeconfig.json
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\bin\Debug\net8.0\HerenciaDeClases.dll
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\bin\Debug\net8.0\HerenciaDeClases.pdb
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\obj\Debug\net8.0\HerenciaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\obj\Debug\net8.0\HerenciaDeClases.AssemblyInfoInputs.cache
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\obj\Debug\net8.0\HerenciaDeClases.AssemblyInfo.cs
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\obj\Debug\net8.0\HerenciaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\obj\Debug\net8.0\HerenciaDeClases.dll
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\obj\Debug\net8.0\refint\HerenciaDeClases.dll
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\obj\Debug\net8.0\HerenciaDeClases.pdb
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\obj\Debug\net8.0\HerenciaDeClases.genruntimeconfig.cache
+C:\Users\Maria Jose\Documents\MJC\Cursos\C#\Nivel 1\HerenciaDeClases\obj\Debug\net8.0\ref\HerenciaDeClases.dll

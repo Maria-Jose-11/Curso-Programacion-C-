@@ -1,0 +1,102 @@
+Interfaces
+        Elemento de programación no implementable solo definible
+   Consideraciones a tomar en cuenta para declarar interfaces:
+        - (El nombre de la interfaz debe comenzar por la letra capital I)
+        - Las interfaces no llevan modificadores de acceso (por defecto son de tipo publicas)
+        - Para que funcionen el uso de interfaces, se deben implementar todos los miembros de está en la clase
+    ¿Como heredar de varias interfaces?
+        Al crear la clase, se debe agregar una coma luego de añadir la primera interfaz:
+            Ejm: class Tanque: IVehiculo, ArmaDeGuerra
+        (Importante: No olvidar que se deben implementar todos los metodos de las interfaces)
+    ¿Cuándo utilizar interfaces?
+        Cuando existan varias clases en el código que hagan lo mismo con la finalidad de crear plantillas que puedan ser utilizadas por múltiples clases 
+
+
+Colecciones
+        - Son agrupaciones de objetos relacionados que pueden añadirse según se requieran
+        
+        Colecciones de tipo Listas: (espacio de nombre System.Collection.Generic)
+            - 
+            ¿Cómo declarar una lista?
+                1. Escribir la palabra clave var (se utiliza para que el compilador defina cual es el tipo de dato que accederá a la instancia)
+                2. Da un nombre a la lista
+                3. Escribe el tipo de dato
+                4. Colocar los elementos separandolos por comas
+            Las listas son objetos dinamicos por lo tanto se pueden añadir y eliminar elementos de la misma
+        
+        Colecciones de tipo ArrayList: (espacio de nombre System.Collection)
+            - Se pueden añadir varios tipos de datos al arreglo
+            ¿Cómo declarar un ArrayList?
+                1. Escribir ArrayList 
+                2. Designar un nombre a la colección
+                3. Asignar un nuevo ArrayList con NEW
+                4. Abrir y cerrar paréntesis
+
+        Colecciones de tipo Diccionarios (espacio de nombre System.Collection.Generic)
+            - Se pueden añadir elementos al diccionario de cualquier tipo de datos 
+            - Se accede a los elementos a través de una clave
+
+Encapsulamiento de métodos con Delegar
+        - Un delegado es un tipo de referencia que encapsula un método para que sea utilizado como parámetro en otros métodos, 
+          con la finalidad de invocar al método desde la instancia del delegado.
+        
+        ¿Cómo definir un delegado?
+            1. Escribir el modificador de acceso
+            2. Asignar la palabra clave "delegate"
+            3. Indicar el valor de retorno del método (void, string, int, etc)
+            4. Asignarle un nombre
+            5. Asignar los parámetros de entrada con su tipo y nombre en caso de requerirlos
+
+        Propiedades de un delegado: 
+            - (Multidifusión) Puede encapsular varios métodos y ejecutarlos por orden de asignación.
+ 
+
+Detección de eventos
+        
+        - Eventos: Se implementan cuando algo relevante ocurre durante la ejecución del programa
+                   Habilitan la clase u objeto llamado "Publicador" para notificarlos a otras clases u objetos que reciben por nombre "Suscriptores"
+        
+                Conceptos claves: 
+                    - Evento: Declaración del delegado
+                    - Publicador: Metodo que utiliza el delegado en sus parámetros
+                    - Manejador: Metodo que se encapsula en el delegado
+                    - Suscripción: Propiedad de multidifusión de los delegados
+
+                Sintaxis para definir eventos:
+                    1. Definir el tipo de modificador de acceso
+                    2. Escribir la palabra clave "event"
+                    3. Escribir EventHandler<EventArgs>
+                    4. Escribir el nombre del evento
+
+                Sintaxis para definir Manejador
+                    1. Escribir el tipo de modificador de acceso
+                    2. Escribir el valor de retorno (tipo void, string, int, etc...)
+                    3. Escribir el nombre del método manejador y abrir paréntesis
+                    4. Definir el primer parámetro como un objeto de tipo "object"
+                    5. Definir el segundo parámetro como un objeto de una clase derivada de "EventArgs"
+
+        (Importante: Si los objetos no estan suscritos al evento, este no se activará).
+
+
+Valor de Referencia
+        - Se utiliza para pasar la dirección de memoria del valor y no el valor de la variable en si, 
+          
+        Sintaxis para utilizar la referencia en métodos:
+            1. Escribir la palabra clave ref en el parámetro de entrada al método
+            2. Escribir el tipo de datos y el nombre de la variable que utilizará el método 
+            3. Al llamar al método en el programa, también se debe escribir la palabra clave ref en los parámetros
+
+
+Tipos Anonimos: 
+        - Son una forma de encapsular propiedades sin tender que definir un tipo. 
+        - Facilitan la obtención de valores de una consulta de base de datos
+        Sintaxis:
+            var x = new {Cantidad = 108, Mensaje = "Hola"}
+            Donde:
+                - var es un tipo genérico que hace que el compilador decida el tipo de objeto del que será la variable
+                - x: nombre de la variable en la que se encapsularán las propiedades
+                - new: inicializador de objeto
+        ¿Cómo usar las propiedades del objeto ?
+            Console.WriteLine(x.Cantidad + x.Mensaje);
+        
+
