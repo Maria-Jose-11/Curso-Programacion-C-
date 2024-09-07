@@ -8,7 +8,6 @@
       <li><a href="#Lección-1">Lección 1 </a></li>
       <li><a href="#Lección-2">Lección 2</a></li>
       <li><a href="#Lección-3">Lección 3 </a></li>
-      <li><a href="#Lección-3">Lección 4 </a></li>
   </ol>
 </details>
 
