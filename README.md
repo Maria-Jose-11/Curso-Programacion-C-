@@ -43,7 +43,8 @@
 ### Lección 3
 <ul>
     <li>Programación Orientada a Objetos (POO)</li>
-    Elemento de programación no implementable solo definible
+    <p>
+        Elemento de programación no implementable solo definible
    Consideraciones a tomar en cuenta para declarar interfaces:
         - (El nombre de la interfaz debe comenzar por la letra capital I)
         - Las interfaces no llevan modificadores de acceso (por defecto son de tipo publicas)
@@ -54,7 +55,7 @@
         (Importante: No olvidar que se deben implementar todos los metodos de las interfaces)
     ¿Cuándo utilizar interfaces?
         Cuando existan varias clases en el código que hagan lo mismo con la finalidad de crear plantillas que puedan ser utilizadas por múltiples clases 
-
+    </p>
 
     <li>Modificadores</li>
     <li>Implementación de métdos</li>
