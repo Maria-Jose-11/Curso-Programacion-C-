@@ -20,9 +20,7 @@
     <li>Uso de forms</li>
     <li>Uso de controles</li>
     <li>Uso de multiforms</li>
-    <li>Transferencia de información entre forms
-    <p>OK </p>
-    </li>
+    <li>Transferencia de información entre forms</li>
     
     <li>Uso de paneles</li>
     <li>Diseño de aplicaciones de escritorio</li>
