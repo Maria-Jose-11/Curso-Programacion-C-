@@ -43,6 +43,19 @@
 ### Lección 3
 <ul>
     <li>Programación Orientada a Objetos (POO)</li>
+    Elemento de programación no implementable solo definible
+   Consideraciones a tomar en cuenta para declarar interfaces:
+        - (El nombre de la interfaz debe comenzar por la letra capital I)
+        - Las interfaces no llevan modificadores de acceso (por defecto son de tipo publicas)
+        - Para que funcionen el uso de interfaces, se deben implementar todos los miembros de está en la clase
+    ¿Como heredar de varias interfaces?
+        Al crear la clase, se debe agregar una coma luego de añadir la primera interfaz:
+            Ejm: class Tanque: IVehiculo, ArmaDeGuerra
+        (Importante: No olvidar que se deben implementar todos los metodos de las interfaces)
+    ¿Cuándo utilizar interfaces?
+        Cuando existan varias clases en el código que hagan lo mismo con la finalidad de crear plantillas que puedan ser utilizadas por múltiples clases 
+
+
     <li>Modificadores</li>
     <li>Implementación de métdos</li>
     <li>Uso de objetos</li>
